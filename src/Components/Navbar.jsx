@@ -39,32 +39,8 @@ const Navbar =()=> {
                 <li className="nav-item">
                   <Link className="nav-link" to="/technology">Technology</Link>
                 </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/business">Business</Link>
-                </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/entertainment">Entertainment</Link>
-                </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/">General</Link>
-                </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/health">Health</Link>
-                </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/science">Science</Link>
-                </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/sport">Sport</Link>
-                </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/technology">Technology</Link>
-                </li>
-
               </ul>
-              </ul>
-
-            </div>
+              </div>
           </div>
         </nav>
       </div>
